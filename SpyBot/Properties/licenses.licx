@@ -1,0 +1,4 @@
+nsoftware.IPWorksWS.Wsclient, nsoftware.IPWorksWS, Version=9.0.5414.0, Culture=neutral, PublicKeyToken=cdc168f89cffe9cf
+Telerik.WinControls.UI.RadTextBox, Telerik.WinControls.UI, Version=2017.1.117.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e
+Telerik.WinControls.UI.RadButton, Telerik.WinControls.UI, Version=2017.1.117.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e
+Telerik.WinControls.Themes.VisualStudio2012DarkTheme, Telerik.WinControls.Themes.VisualStudio2012Dark, Version=2017.1.117.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e

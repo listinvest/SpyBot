@@ -262,16 +262,16 @@ namespace SpyBot
 
                     else
                     {
-                        try
-                        {
-                            string xxx = "0";
-                            wsclient.DataToSend = xxx + " " + xxx + " " + xxx;
+                        //try
+                        //{
+                        //    string xxx = "0";
+                        //    wsclient.DataToSend = xxx + " " + xxx + " " + xxx;
 
-                        }
-                        catch (IPWorksWSException ipwse)
-                        {
-                            //        //tbEcho.AppendText("Failed to send. Reason: " + ipwse.Message + ".\r\n");
-                        }
+                        //}
+                        //catch (IPWorksWSException ipwse)
+                        //{
+                        //    //        //tbEcho.AppendText("Failed to send. Reason: " + ipwse.Message + ".\r\n");
+                        //}
                         
                     }
                 }

@@ -57,7 +57,7 @@ namespace SpyBot
         int light_brightness = 5;
         int light_sequence = 0;
         int slowmode = 0;
-        string headlights_string;
+        //string headlights_string;
         string slowmode_string;
 
         //counters used for managing the toggling of car functions
@@ -272,7 +272,7 @@ namespace SpyBot
                         {
                             //        //tbEcho.AppendText("Failed to send. Reason: " + ipwse.Message + ".\r\n");
                         }
-                        
+
                     }
                 }
                 else
